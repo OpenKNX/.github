@@ -8,6 +8,10 @@ OpenKNX is a open community of hobby/DIY developers aiming to create free and op
 Our goal is to achieve maximum conformity to the KNX specification for a seamless integration into your smart home.\
 We are using open source tools like KiCAD, FreeCAD, Visual Studio Code, the Arduino Framework and many others.
 
+# Wiki
+
+Further information can be found in the [OpenKNX Wiki](https://github.com/OpenKNX/OpenKNX/wiki)
+
 # Related projects
 
 https://github.com/thelsing/knx
