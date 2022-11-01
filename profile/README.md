@@ -16,6 +16,8 @@ Further information can be found in the [OpenKNX Wiki](https://github.com/OpenKN
 
 https://github.com/thelsing/knx
 
+https://github.com/earlephilhower/arduino-pico
+
 https://github.com/thewhobox/Kaenx
 
 https://smart-mf.de
