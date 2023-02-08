@@ -12,6 +12,10 @@ We are using open source tools like KiCAD, FreeCAD, Visual Studio Code, the Ardu
 
 Further information can be found in the [OpenKNX Wiki](https://github.com/OpenKNX/OpenKNX/wiki)
 
+# Examples
+
+If you are looking for some Examples have a look here: [OpenKNX Examples](https://github.com/OpenKNX/Examples)
+
 # Related projects
 
 https://github.com/thelsing/knx
