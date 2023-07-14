@@ -17,7 +17,7 @@ Further information can be found in the [OpenKNX Wiki](https://github.com/OpenKN
 If you are looking for some Examples have a look here: [OpenKNX Examples](https://github.com/OpenKNX/Examples)
 
 # Support us
-[<img src="https://opencollective.com/webpack/donate/button@2x.png?color=blue">](https://opencollective.com/openknx-collective/donate)
+[<img src="https://opencollective.com/webpack/donate/button@2x.png?color=blue" width="300">](https://opencollective.com/openknx-collective/donate)
 
 # Related projects
 
