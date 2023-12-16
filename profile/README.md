@@ -2,11 +2,11 @@
 
 OpenSource KNX software and hardware for maker, hobbyist and home automation enthusiasts
 
-# About OpenKNX
+# Über OpenKNX
 
-OpenKNX is a open community of hobby/DIY developers aiming to create free and open source firmware for KNX devices.\
-Our goal is to achieve maximum conformity to the KNX specification for a seamless integration into your smart home.\
-We are using open source tools like KiCAD, FreeCAD, Visual Studio Code, the Arduino Framework and many others.
+OpenKNX ist eine offene Gemeinschaft von Hobby-Entwicklern die freie und quelloffene Software für KNX-Geräte erstellen.\
+Um eine nachhaltige und professionelle Integration ins Smarthome zu erreichen streben wir eine weitgehende Kompatibilität zum KNX-Standard an.\
+Mit OpenKNX hast Du die Möglichkeit bereits fertige Lösungen einzusetzen, diese individuell anzupassen oder ganz neue Lösungen zu realisieren.
 
 # Wiki
 
