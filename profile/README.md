@@ -1,7 +1,3 @@
-# OpenKNX
-
-OpenSource KNX software and hardware for maker, hobbyist and home automation enthusiasts
-
 # Über OpenKNX
 
 OpenKNX ist eine offene Gemeinschaft von Hobby-Entwicklern die freie und quelloffene Software für KNX-Geräte erstellen.\
@@ -10,7 +6,11 @@ Mit OpenKNX hast Du die Möglichkeit bereits fertige Lösungen einzusetzen, dies
 
 # Wiki
 
-Further information can be found in the [OpenKNX Wiki](https://github.com/OpenKNX/OpenKNX/wiki)
+Mehr Infos gibt es im [OpenKNX Wiki](https://github.com/OpenKNX/OpenKNX/wiki)
+
+# Kontakt
+
+Du erreichst uns am besten im [OpenKNX-Unterforum des KNX-User-Forums](https://knx-user-forum.de/forum/projektforen/openknx).
 
 # Examples
 
