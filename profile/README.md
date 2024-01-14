@@ -10,11 +10,12 @@ Mehr Infos gibt es im [OpenKNX Wiki](https://github.com/OpenKNX/OpenKNX/wiki)
 
 # Kontakt
 
-Du erreichst uns am besten im [OpenKNX-Unterforum des KNX-User-Forums](https://knx-user-forum.de/forum/projektforen/openknx).
+Du erreichst uns am besten im [OpenKNX-Unterforum des KNX-User-Forums](https://knx-user-forum.de/forum/projektforen/openknx).\
+Alternativ kannst du uns direkt über [github discussions](https://github.com/OpenKNX/OpenKNX/discussions) erreichen.
 
-# Examples
+# Beispiele
 
-If you are looking for some Examples have a look here: [OpenKNX Examples](https://github.com/OpenKNX/Examples)
+Beispiele für einen schnellen Einstieg gibts hier [OpenKNX Examples](https://github.com/OpenKNX/Examples)
 
 # Support us
 [<img src="https://opencollective.com/webpack/donate/button@2x.png?color=blue" width="300">](https://opencollective.com/openknx-collective/donate)
