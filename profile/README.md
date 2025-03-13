@@ -4,9 +4,11 @@ OpenKNX ist eine offene Gemeinschaft von Hobby-Entwicklern die freie und quellof
 Um eine nachhaltige und professionelle Integration ins Smarthome zu erreichen streben wir eine weitgehende Kompatibilität zum KNX-Standard an.\
 Mit OpenKNX hast Du die Möglichkeit bereits fertige Lösungen einzusetzen, diese individuell anzupassen oder ganz neue Lösungen zu realisieren - der modulare Ansatz bietet schnelle Erfolge durch den Einsatz bewährter Softwaremodule.
 
-# Wiki
+# Information und Dokumentation
 
-Mehr Infos gibt es im [OpenKNX Wiki](https://github.com/OpenKNX/OpenKNX/wiki)
+[Anwender-Wiki](https://openknx.atlassian.net/wiki/spaces/OpenKNX/overview)
+
+[Entwickler-Wiki auf Github](https://github.com/OpenKNX/OpenKNX/wiki)
 
 # Kontakt
 
