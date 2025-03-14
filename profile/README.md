@@ -6,7 +6,7 @@ Mit OpenKNX hast Du die Möglichkeit bereits fertige Lösungen einzusetzen, dies
 
 # Information und Dokumentation
 
-[Anwender-Wiki](https://wiki.openknx.de)
+[Anwender-Wiki](http://wiki.openknx.de)
 
 [Entwickler-Wiki auf Github](https://github.com/OpenKNX/OpenKNX/wiki)
 
