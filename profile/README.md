@@ -21,13 +21,3 @@ Beispiele für einen schnellen Einstieg gibts hier [OpenKNX Examples](https://gi
 
 # Support us
 [<img src="https://opencollective.com/webpack/donate/button@2x.png?color=blue" width="300">](https://opencollective.com/openknx-collective/donate)
-
-# Related projects
-
-https://github.com/thelsing/knx
-
-https://github.com/earlephilhower/arduino-pico
-
-https://github.com/thewhobox/Kaenx
-
-https://smart-mf.de
