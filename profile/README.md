@@ -18,6 +18,3 @@ Alternativ kannst du uns direkt über [github discussions](https://github.com/Op
 # Beispiele
 
 Beispiele für einen schnellen Einstieg gibts hier [OpenKNX Examples](https://github.com/OpenKNX/Examples)
-
-# Support us
-[<img src="https://opencollective.com/webpack/donate/button@2x.png?color=blue" width="300">](https://opencollective.com/openknx-collective/donate)
